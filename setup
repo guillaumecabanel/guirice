@@ -1,0 +1,8 @@
+echo "Installing git..."
+sudo apt-get update > /dev/null
+sudo apt-get install -y git > /dev/null
+
+echo "Cloning stable GuiRice..."
+git clone -b stable https://github.com/guillaumecabanel/guirice.git ~/.local/share/guirice > /dev/null
+
+source ~/.local/share/guirice/install.sh
