@@ -13,7 +13,7 @@ echo \
 sudo apt-get update
 
 # Install Docker engine and standard plugins
-sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 
 # Give this user privileged Docker access
 sudo usermod -aG docker ${USER}
