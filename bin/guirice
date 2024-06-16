@@ -1,0 +1,5 @@
+#!/bin/bash
+
+source $GUIRICE_PATH/ascii.sh
+echo "" # Add spacing
+source $GUIRICE_PATH/bin/guirice-menu

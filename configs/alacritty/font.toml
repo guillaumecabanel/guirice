@@ -1,0 +1,2 @@
+# Leave this file as-is to allow guirice to swap fonts system wide
+import = [ "~/.local/share/guirice/fonts/alacritty/JetBrainsMono.toml" ]
