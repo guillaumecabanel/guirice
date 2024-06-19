@@ -17,11 +17,15 @@ alias g='git'
 alias r='rails'
 alias bat='batcat'
 alias lzg='lazygit'
+alias code='code .'
 
 # Git
 alias gcm='git commit -m'
 alias gcam='git commit -a -m'
 alias gcad='git commit -a --amend'
+alias gco='git checkout'
+alias gcb='git checkout -b'
+alias gst='git status'
 
 # Compression
 compress() { tar -czf "${1%/}.tar.gz" "${1%/}"; }
