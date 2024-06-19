@@ -26,7 +26,12 @@ alias gcad='git commit -a --amend'
 alias gco='git checkout'
 alias gcb='git checkout -b'
 alias gst='git status'
+alias ggp='git push origin $(git rev-parse --abbrev-ref HEAD)'
+alias ggl='git pull origin $(git rev-parse --abbrev-ref HEAD)'
 
 # Compression
 compress() { tar -czf "${1%/}.tar.gz" "${1%/}"; }
 alias decompress="tar -xzf"
+
+# Update
+alias up='sudo apt update && sudo apt upgrade -y && sudo apt autoremove'
