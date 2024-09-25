@@ -1,5 +1,0 @@
-source ~/.local/share/guirice/defaults/bash/rc
-
-# Editor used by CLI
-export EDITOR="vim"
-export SUDO_EDITOR="vim"

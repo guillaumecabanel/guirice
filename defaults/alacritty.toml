@@ -6,9 +6,9 @@ program = "zellij"
 args = ["a", "Office"]
 
 [window]
-dimensions = { columns = 160, lines = 40 }
-padding.x = 16
-padding.y = 14
+dimensions = { columns = 180, lines = 54 }
+padding.x = 8
+padding.y = 6
 decorations = "None"
 opacity = 0.97
 

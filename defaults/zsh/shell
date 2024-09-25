@@ -1,0 +1,22 @@
+ZSH=$HOME/.oh-my-zsh
+ZSH_THEME="guirice"
+
+# Useful oh-my-zsh plugins for Le Wagon bootcamps
+plugins=(git gitfast last-working-dir common-aliases zsh-syntax-highlighting history-substring-search)
+
+# Disable warning about insecure completion-dependent directories
+ZSH_DISABLE_COMPFIX=true
+
+# Actually load Oh-My-Zsh
+source "${ZSH}/oh-my-zsh.sh"
+unalias rm # No interactive rm by default (brought by plugins/common-aliases)
+
+# Encoding stuff for the terminal
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
+
+# Set complete path
+export PATH="./bin:$HOME/.local/bin:$HOME/.local/share/guirice/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:$HOME/.cargo/bin"
+set +h
+
+export GUIRICE_PATH="/home/$USER/.local/share/guirice"

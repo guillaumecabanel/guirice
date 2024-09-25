@@ -1,4 +1,0 @@
-source ~/.local/share/guirice/defaults/bash/shell
-source ~/.local/share/guirice/defaults/bash/aliases
-source ~/.local/share/guirice/defaults/bash/prompt
-source ~/.local/share/guirice/defaults/bash/init
