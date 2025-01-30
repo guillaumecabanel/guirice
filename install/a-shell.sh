@@ -15,4 +15,5 @@ cd "$CURRENT_DIR"
 
 mv ~/.zshrc ~/.zshrc.orig
 ln -s ~/.local/share/guirice/configs/zshrc ~/.zshrc
+
 source ~/.local/share/guirice/defaults/zsh/shell

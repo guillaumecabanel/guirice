@@ -43,25 +43,3 @@ The joy of Linux flows from the keyboard. Training yourself to navigate and comm
 | Ctrl + O D          | Suspend session             |
 | Ctrl + S            | Scroll mode (use pgup/down) |
 | Ctrl + R            | Reveal command history      |
-
-## Quick Emojis
-
-| Hotkey       | EM | Clue       |
-| ------------ | -- | ---------- |
-| CapsLock M S | 😀 | smile      |
-| CapsLock M C | 😂 | cry        |
-| CapsLock M L | 😍 | love       |
-| CapsLock M V | ✌️" | victory    |
-| CapsLock M H | ❤️" | heart      |
-| CapsLock M Y | 👍 | yes        |
-| CapsLock M N | 👎 | no         |
-| CapsLock M F | 🖕 | fuck       |
-| CapsLock M W | 🤞 | wish       |
-| CapsLock M R | 🤘 | rock       |
-| CapsLock M K | 😘 | kiss       |
-| CapsLock M E | 🙄 | eyeroll    |
-| CapsLock M D | 🤤 | droll      |
-| CapsLock M M | 💰 | money      |
-| CapsLock M X | 🎉 | xellebrate |
-| CapsLock M 1 | 💯 | 100%       |
-| CapsLock M T | 🥂 | toast      |

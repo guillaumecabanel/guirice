@@ -1,19 +1,18 @@
 include "%L"
 
-<Multi_key> <m> <s> : "😀" # smile
-<Multi_key> <m> <c> : "😂" # cry
-<Multi_key> <m> <l> : "😍" # love
-<Multi_key> <m> <v> : "✌️"  # victory
-<Multi_key> <m> <h> : "❤️"  # heart
-<Multi_key> <m> <y> : "👍" # yes
-<Multi_key> <m> <n> : "👎" # no
-<Multi_key> <m> <f> : "🖕" # fuck
-<Multi_key> <m> <w> : "🤞" # wish
-<Multi_key> <m> <r> : "🤘" # rock
-<Multi_key> <m> <k> : "😘" # kiss
-<Multi_key> <m> <e> : "🙄" # eyeroll
-<Multi_key> <m> <d> : "🤤" # droll
-<Multi_key> <m> <m> : "💰" # money
-<Multi_key> <m> <x> : "🎉" # xellebrate
-<Multi_key> <m> <1> : "💯" # 100%
-<Multi_key> <m> <t> : "🥂" # toast
+<Multi_key> <e> <j> : "Excellente journée,"
+
+<Multi_key> <k> <a> <d> <d> <r> : "74 bd de la prairie au Duc 44200 NANTES"
+<Multi_key> <k> <s> <i> <r> <e> <n> : "849321328"
+<Multi_key> <k> <s> <i> <r> <e> <t> : "84932132800015"
+<Multi_key> <k> <t> <v> <a> : "FR06849321328"
+
+<Multi_key> <g> <a> <d> <d> <r> : "APPT 601, 2 ALLEE ANNE-MARIE IMBRECQ, 44300 NANTES"
+<Multi_key> <g> <s> <i> <r> <e> <n> : "930062641"
+<Multi_key> <g> <s> <i> <r> <e> <t> : "93006264100012"
+<Multi_key> <g> <t> <v> <a> : "FR07930062641"
+<Multi_key> <g> <i> <b> <a> <n> : "FR7630047140130002155270174"
+
+<Multi_key> <f> <l> <i> <p> : "(╯°□°）╯︵ ┻━┻"
+<Multi_key> <u> <n> <f> <l> <i> <p> : "┬─┬ノ( º _ ºノ)"
+<Multi_key> <g> <g> : "¯\\_(ツ)_/¯"

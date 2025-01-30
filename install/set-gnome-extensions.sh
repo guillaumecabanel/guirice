@@ -28,7 +28,7 @@ gsettings set org.gnome.shell.extensions.tactile row-1 1
 gsettings set org.gnome.shell.extensions.tactile gap-size 32
 
 # Configure Just Perfection
-gsettings set org.gnome.shell.extensions.just-perfection animation 2
+gsettings set org.gnome.shell.extensions.just-perfection animation 0
 gsettings set org.gnome.shell.extensions.just-perfection dash-app-running true
 gsettings set org.gnome.shell.extensions.just-perfection workspace true
 gsettings set org.gnome.shell.extensions.just-perfection workspace-popup false

@@ -1,4 +1,5 @@
 source ~/.local/share/guirice/defaults/zsh/rc
+source ~/.private_exports
 
 # Editor used by CLI
 export EDITOR="nano"
