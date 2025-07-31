@@ -1,4 +1,4 @@
 import = [ "~/.config/alacritty/theme.toml", "~/.config/alacritty/font.toml", "~/.local/share/guirice/defaults/alacritty.toml" ]
 
 [font]
-size = 13
+size = 16

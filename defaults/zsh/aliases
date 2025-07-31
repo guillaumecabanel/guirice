@@ -11,13 +11,18 @@ alias g='git'
 alias r='rails'
 alias bat='batcat'
 alias code='code .'
+alias gsweep='git branch --merged | grep -Ev "(^\*|^\+|master|main|dev)" | xargs -r git branch -d && git remote prune origin'
+alias temp="sensors | perl -n -e 'print \"\$1\n\" if /: *\+(\d{2}\.\d°C)/'"
+alias cop="bundle exec rubocop"
+alias n="nvim ."
 
 # Compression
 compress() { tar -czf "${1%/}.tar.gz" "${1%/}"; }
 alias decompress="tar -xzf"
 
 # Update
-alias up='sudo apt update && sudo apt upgrade -y && sudo apt autoremove && sudo apt autoclean'
+alias update_cursor='curl -sSL https://links.kuartz.fr/install_cursor | bash'
+alias up='sudo apt update && sudo apt upgrade -y && update_cursor && update_discord && sudo apt autoremove && sudo apt autoclean'
 
 # Guru
 alias guru='ruby ~/.local/share/guigui/guru_complete/guru.rb'

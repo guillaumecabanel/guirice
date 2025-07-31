@@ -4,3 +4,5 @@ source ~/.private_exports
 # Editor used by CLI
 export EDITOR="nano"
 export SUDO_EDITOR="nano"
+alias cursor='launch_cursor .'
+
